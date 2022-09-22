@@ -1,0 +1,12 @@
+C:\Users\Miguel\Documents\c#\ponto semanal\ponto semanal\bin\Debug\ponto semanal.exe.config
+C:\Users\Miguel\Documents\c#\ponto semanal\ponto semanal\bin\Debug\ponto semanal.exe
+C:\Users\Miguel\Documents\c#\ponto semanal\ponto semanal\bin\Debug\ponto semanal.pdb
+C:\Users\Miguel\Documents\c#\ponto semanal\ponto semanal\obj\Debug\ponto semanal.csproj.AssemblyReference.cache
+C:\Users\Miguel\Documents\c#\ponto semanal\ponto semanal\obj\Debug\ponto semanal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel\Documents\c#\ponto semanal\ponto semanal\obj\Debug\ponto_semanal.Form1.resources
+C:\Users\Miguel\Documents\c#\ponto semanal\ponto semanal\obj\Debug\ponto_semanal.login.resources
+C:\Users\Miguel\Documents\c#\ponto semanal\ponto semanal\obj\Debug\ponto_semanal.Properties.Resources.resources
+C:\Users\Miguel\Documents\c#\ponto semanal\ponto semanal\obj\Debug\ponto semanal.csproj.GenerateResource.cache
+C:\Users\Miguel\Documents\c#\ponto semanal\ponto semanal\obj\Debug\ponto semanal.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\c#\ponto semanal\ponto semanal\obj\Debug\ponto semanal.exe
+C:\Users\Miguel\Documents\c#\ponto semanal\ponto semanal\obj\Debug\ponto semanal.pdb
